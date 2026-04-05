@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RetDis
 {
-    public class Class1
+    public class RetDis
     {
     }
 }
