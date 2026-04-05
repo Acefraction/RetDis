@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetDisWin", "RetDisWin\RetD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{DDB4EF12-CC4E-5E88-E6FC-71A802F4DE97}"
 	ProjectSection(SolutionItems) = preProject
+		docs\retro_quantize_job_list.md = docs\retro_quantize_job_list.md
 		docs\retro_quantize_spec_v0_1.md = docs\retro_quantize_spec_v0_1.md
 	EndProjectSection
 EndProject
