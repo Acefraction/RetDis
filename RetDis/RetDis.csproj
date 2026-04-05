@@ -42,11 +42,19 @@
     
     <Reference Include="System.Data"/>
     
+    <Reference Include="System.Drawing"/>
+    
     <Reference Include="System.Net.Http"/>
     
     <Reference Include="System.Xml"/>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\Grid2D.cs" />
+    <Compile Include="Models\ColorCell.cs" />
+    <Compile Include="Models\DitherPattern.cs" />
+    <Compile Include="Models\RetroImageCache.cs" />
+    <Compile Include="Models\RetroQuantizeParameters.cs" />
+    <Compile Include="Models\RetroQuantizeResult.cs" />
     <Compile Include="RetDis.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
